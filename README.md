@@ -1,4 +1,4 @@
-# Week 1 - Travel-Path
+# Week 1 - Travel Path
 
 Before learning to build AI tools, first understand the world behind it.
 
